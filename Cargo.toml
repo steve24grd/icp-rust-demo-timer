@@ -2,3 +2,4 @@
 members = [
     "src/my_timers_backend",
 ]
+resolver = "2"
